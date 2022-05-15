@@ -1,0 +1,506 @@
+{
+    "- OrderNowPrice:": "- سعر الطلب الآن",
+    "A fresh verification link has been sent to your email address.": "تم إرسال رابط تحقق جديد إلى عنوان بريدك الإلكتروني.",
+    "About": "عنّا",
+    "address": "العنوان",
+    "Address": "العنوان",
+    "admin.questions.do_remove": "هل أنت متأكد أنت تريد حذف العنصر؟",
+    "All Bids": "جميع العروض",
+    "All Products": "جميع منتجاتي",
+    "arabic": "العربية",
+    "Are you sure you have received your ordered product:": "هل أنت متأكد أنك استلمت طلبك: ",
+    "Are you sure you want to delete ": "هل أنت متأكد أنك تريد حذف العنصر ",
+    "Are you sure you want to delete bid with price:": "هل أنت متأكد أنك تريد حذف عرضك ذو السعر:",
+    "Are you sure you want to delete product with title:": "هل أنت متأكد أنك تريد حذف المنتج: ",
+    "Are you sure you want to delete the order of product: ": "هل أنت متأكد أنك تريبد حذف طلبية المنتج: ",
+    "Are you sure you want to delete your product:": "هل أنت متأكد أنك تريد حذف منتجك: ",
+    "Auction Timer": "مؤقت المزاد",
+    "store": "متجر",
+    "Auctioned (and not ordered yet) Products": "(لم تُطلب بعد) المنتجات التي تمت المزايدة عليها:",
+    "Bead": "الخرز",
+    "beads": "الخرز",
+    "Before proceeding, please check your email for a verification link.": "قبل المتابعة، يرجى التحقق من بريدك الإلكتروني للحصول على رابط التحقق.",
+    "Bid description": "وصف العرض",
+    "Bid History": "تاريخ العرض",
+    "Bid history": "تاريخ العرض",
+    "bid history": "تاريخ العرض",
+    "Bid history for ": "تاريخ عرض المستخدم",
+    "bid Increament": "أقل مزايدة ",
+    "Bid On This Product": "زاود بعرضك على هذا المنتج:",
+    "Bid Owner-Buyer": "صاحب العرض ",
+    "Bid Price": "سعر العرض",
+    "BidIncreament": "أقل مزايدة ممكنة",
+    "Bids": "عروض",
+    "bids": "العروض",
+    "bids count:": "عدد العروض",
+    "Bids for product:": "عروض المنتج:",
+    "Bids On This Product:": "العروض على هذا المنتج:",
+    "Bids:": "العروض",
+    "buyer": "المشتري",
+    "Buyer": "مشتري",
+    "Buyer Bids": "عروض المشتري",
+    "buyer bids :": "عروض المشتري",
+    "Buyer Details": "تفاصيل المشتري",
+    "Buyer Profile": "بروفايل المشتري",
+    "Buyer Register": "تسجيل كمشتري",
+    "Buyers": "المشترين",
+    "Buyers:": "المشترين:",
+    "Cancel": "إلغاء",
+    "cancel": "إلغاء",
+    "Categories": "التصنيفات",
+    "category": "تصنيف",
+    "Category": "تصنيف",
+    "Change password": "تغيير كلمة المرور",
+    "Change Password": "تغيير كلمة المرور",
+    "change password": "تغيير كلمة المرور",
+    "Checkout Your Order": "تحقق من طلبك",
+    "Choose_Category": "اختر تصنيف",
+    "Clay": "الفخار",
+    "clay": "الفخار",
+    "click here to request another": "انقر هنا",
+    "Confirm Delivary": "تأكيد الاستلام",
+    "confirm new password": "تأكيد كلمة المرور الجديدة",
+    "Confirm Password": "تأكيد كلمة المرور",
+    "Confirm Your Personal Info": "تأكد من بياناتك الشخصية",
+    "Update Your Information": "تعديل البيانات الشخصية",
+    "Contact Us": "تواصل معنا",
+    "control panel": "لوحة التحكم",
+    "Craftsman": "مالك المنتجات",
+    "craftsman": "مالك المنتج",
+    "Craftsman Products": "منتجات المالك",
+    "craftsman products:": "منتجات المالك:",
+    "Craftsman Products:": "منتجات المالك:",
+    "Craftsman Profile": "بروفايل المالك",
+    "Craftsman Register": " تسجيل كشيف",
+    "CraftsmanInfo : ": "بيانات المالك: ",
+    "CraftsmanInfo:": "بيانات المالك:",
+    "Craftsmen": "بائعي المشغولات اليديوية",
+    "craftsmen": "بائعي المشغولات اليديوية",
+    "Craftsmen:": "بائعي المشغولات اليديوية:",
+    "Create": "إضافة",
+    "Create a buyer account to order products.": "أنشئ حساب مشتري لتتمكن من طلب المنتجات.",
+    "Create New Product": "إنشاء منتج جديد",
+    "Create Product": "إضافة منتج",
+    "created at": "تاريخ الإنشاء",
+    "created_at": "تاريخ الإنشاء",
+    "Ctegories:": "التصنيفات:",
+    "current password": "كلمة المرور الحالية",
+    "Dashboard": "لوحة الإعدادات:",
+    "Delete Bid": "حذف العرض",
+    "Delete Buyer": "حذف المشتري",
+    "Delete Craftsman": "حذف البائع",
+    "Delete Order": "حذف الطلب",
+    "Delete Product": "جذف النتج",
+    "Delete your bid": "حذف العرض",
+    "Delete Your Product": "حذف المنتج",
+    "Delivary druing 3 hour.": "تسليم الطلبات خلال 3 ساعات",
+    "Deliver Now": "التسليم الآن",
+    "description": "التفاصيل",
+    "Details": "التفاصيل",
+    "Dilivery:during 3 hours": "تسليم الطلبات خلال 3 ساعات",
+    "E-Mail Address": "عنوان البريد الإلكتروني",
+    "edit": "تعديل",
+    "Edit Product images": "تعديل صورة المنتج",
+    "Email": "البريد",
+    "email": "البريد",
+    "embroideries": "التطريز",
+    "Embroidery": "التطريز",
+    "english": "الانجليزية",
+    "enter bid description here": "أدخل وصف العرض هنا",
+    "Enter number of days to extend auction": " عدد الأيام المراد تمديد المزاد بمقدارها",
+    "Enter Price or description": "أدخل سعر العرض أو وصفه",
+    "Enter Product name to search with": "أدخل اسم المنتج للبحث ",
+    "Enter Product title or price to search with": "أدخل عنوان المنتج أو سعره ",
+    "Expired": "منتهي",
+    "extend auction": "تمديد المزاد",
+    "Extend Auction": "تمديد المزاد",
+    "Filter Auctioned Products": "فلترة المنتجات التي تم المزايدة عليها",
+    "Filter": "فلترة",
+    "First Name": "الاسم الأول",
+    "firstName": "الاسم الأول",
+    "FirstName": "الاسم الأول",
+    "Forgot Your Password?": "نسيت كلمة المرور؟",
+    "Free Shipping": "توصيل مجاني",
+    "Free Shipping ": "توصيل مجاني",
+    "Free shipping.": "توصيل مجاني.",
+    "Get rid of the boring routine used to sell your handmades": "تخلص من الروتين الممل الذي تتبعه في بيع أشغالك اليديوية",
+    "Glass": "الزجاج",
+    "glass": "الزجاج",
+    "Goals": "الأهداف",
+    "Handicrafts Auction": "مطبخ بيتي",
+    "Handicrafts Auction Categories": "تصنيفات المنتجات في مطبخ بيتي",
+    "Handicrafts Auction Features": "مزايا مزاد مطبخ بيتي",
+    "Handicrafts Auction Team": "فريق مزاد مطبخ بيتي",
+    "HandicraftsAuction": " مطبخ بيتي",
+    "History": "التاريخ",
+    "Home": "الرئيسية",
+    "I pledge to deliver the order price upon receipt": "أتعهد بتسليم ثمن المنتج فور استلامي إياه.",
+    "id": "الرقم",
+    "If you did not receive the email": "إذا لم يصلك الإيميل",
+    "in-active now : ": "غير فعال الآن ",
+    "it\\'s Your Bid": "عرضك",
+    "Its your bid!": "عرضك!",
+    "Your Product!": "منتجك!",
+    "lang.alert": "تنبيه",
+    "lang.no": "لا",
+    "lang.questions.confirm_remove": "تأكيد الحذف",
+    "lang.yes": "نعم",
+    "Last Name": "الاسم الأخير",
+    "lastName": "الاسم الأخير",
+    "LastName": "الاسم الأخير",
+    "Leather": "الجلد",
+    "leather": "الجلد",
+    "Log in": "تسجيل دخول",
+    "Login": "تسجيل دخول",
+    "Logout": "تسجيل خروج",
+    "Max Bid": "أعلى عرض",
+    "MaxBid": "أعلى عرض",
+    "MaxBid:": "أعلى عرض: ",
+    "maxBidPrice:": "سعر أعلى عرض:",
+    "metals": "المعادن",
+    "Metals": "المعادن",
+    "min value accepted for new bid price:": "أقل سعر ممكن للعرض الجديد:",
+    "min value accepted:": "أقل سعر ممكن :",
+    "Mobile": "رقم الجوال",
+    "mobile": "رقم الجوال",
+    "mobile:": "رقم الجوال:",
+    "My Bids": "عروضي",
+    "My Orders": "طلباتي",
+    "My Products": "منتجاتي",
+    "My Profile": "الملف الشخصي",
+    "MyOrderedProducts": "منتجاتي المطلوبة",
+    "MyOrders": "طلباتي",
+    "Name": "الاسم",
+    "name": "الاسم",
+    "natural resources": "موارد طبيعية",
+    "NaturalResources": "موارد طبيعية",
+    "new password": "كلمة المرور الجديدة",
+    "Next": ">",
+    "OK": "نعم",
+    "on": "على",
+    "Options": "خيارات",
+    "or": "أو",
+    "Order Details": "تفاصيل الطلب",
+    "order details": "تفاصيل الطلب",
+    "Order Now": "اطلب الآن",
+    "Order Now this product:": "اطلب هذا المنتج الآن:",
+    "Order Now:": "اطلب الآن:",
+    "OrderDate: ": "تاريخ الطلب: ",
+    "Ordered Products": "المنتجات المطلوبة",
+    "Ordered products": "المنتجات المطلوبة",
+    "Ordering products by ease around the clock.": "طلب المنتجات بسهولة على مدار الساعة.",
+    "OrderNow:": "الطلب الآن:",
+    "OrderNowPrice": "سعر الطلب الآن",
+    "orderNowPrice": "سعر الطلب الآن",
+    "OrderNowPrice:": "سعر الطلب الآن",
+    "OrderOwner:": "صاحب الطلب:",
+    "OrderPrice:": "سعر الطلب:",
+    "Orders": "الطلبات",
+    "Orders: ": "الطلبات: ",
+    "owner": "المالك",
+    "OwnerName": "اسم المالك",
+    "Painting": "لوحات",
+    "paintings": "لوحات",
+    "Paper": "الورق",
+    "paper": "الورق",
+    "Password": "كلمة المرور",
+    "Place A Bid On This Product": "أضف عرضًا على هذا المنتج",
+    "Place Bid": "أضف عرض",
+    "plastic": "بلاستيك",
+    "Plastic": "بلاستيك",
+    "Please confirm your password before continuing.": "الرجاء تأكيد كلمة المرور قبل المتابعة",
+    "Previous": "<",
+    "price": "السعر",
+    "Price Range": "نطاق السعر",
+    "Price:": "السعر: ",
+    "product": "المنتج",
+    "Product Bids": "عروض المنتح",
+    "Product Details": "تفاصيل المنتح",
+    "Product image": "صورة المنتج",
+    "ProductOwner: ": "صاحب المنتج: ",
+    "products": "منتجات",
+    "Products": "منتجات",
+    "products count": "عدد المنتجات",
+    "products count: ": "عدد المنتجات: ",
+    "Products:": "المنتجات:",
+    "Profile": "الملف الشخصي",
+    "Quick Statistic    -    Handicrafts Auction ": "احصائية سريعة     -    مزاد المشغولات اليديوية",
+    "Recent Auctions": "أحدث المزادات",
+    "Register": "إنشاء حساب",
+    "Register as Buyer": "التسجيل كمشتري",
+    "Register as Craftsman": "Register as Craftsman",
+    "Register Role": "نوع التسجيل",
+    "Remember Me": "تذكرني",
+    "Reset": "إعادة تعيين",
+    "Reset Password": "إعادة تعيين كلمة المرور",
+    "Return acceptance.": "الترجيع مقبول.",
+    "Returns accepted": "الترجيع مقبول",
+    "Roles": "الأدوار",
+    "Roles:": "الأدوار",
+    "Save Your marketing time.": "وفر وقت تسويق مشغولاتك.",
+    "Search": "ابحث",
+    "search by bid Price or description": "ابحث عبر سعر العرض أو وصفه",
+    "search by product title, Price or description": "ابحث عبر عنوان المنتج أو سعره أو وصفه",
+    "search by Username, FirstName, LastName or Email": "ابحث عبر اسم المستخدم أو اسمه الأول أو الأخير أو بريده",
+    "Search for bid by price": "ابحث عن العرض عبر سعره",
+    "Search for Order by product title": "ابحث عن الطلب عبر اسم المنتج",
+    "Search for Product by name or price": "ابحث عن المنتج بعنوانه أو سعره",
+    "Select category to search with": "اختر تصنيف المنتجات للبحث",
+    "Select image to upload new one": "انقر على الصورة لرفع صورة جديدة",
+    "Send Password Reset Link": "ارسال رابط إعادة تعيين كلمة المرور",
+    "Show": "عرض",
+    "show": "عرض",
+    "Show buyer": "عرض المشتري",
+    "Show buyer Bids": "إطهار عروض المشتري",
+    "Show Craftsman": "عرض البائع",
+    "Show craftsman Products": "عرض منتجات البائع",
+    "Show product Bids": "إظهار عروض المنتج",
+    "Starting Bid Price": "سعر أول عرض ممكن",
+    "Yes, Delete Order":"نعم، احذف",
+    "When adding a product, you have to take care of choosing the buy-now price, as the system will depend on it to calculate the starting bid price for your product’s auction (40% of the buy-now price), as well as calculate the minimum possible bid increment between every two bids (6% of the purchase price now) and thus calculate The minimum value for the prices of all possible bids. Therefore, the higher the buy-now price of your product, the more chance you will have to sell the product at a higher price, whether through the buy-now price itself or through the auction.": "عند إضافة منتج عليك الاعتناء باختيار سعر الشراء الآن، إذ سيعتمد النظام على هذا السعر لحساب سعر أول عرض ممكن لمزاد منتجك (٤٠% من سعر الشراء الان)، وكذلك حساب اقل مزايدة ممكنه بين كل عرضين (6% من سعر الشراء الان) وبالتالي حساب اقل قيمة لاسعار جميع العروض الممكن تقديمها. لذلك كلما كان سعر الشراء الان لمنتجك مرتفعًا أكثر ستحظى بفرصه أكبر لبيع المنتج بسعر أعلى، سواء عبر سعر الشراء الآن نفسه أو عبر المزاد.",
+    "StartingBid:": "أول عرض ممكن:",
+    "The Handicrafts Auction products contains twelve static categories": "مزاد المشغولات اليديوية يشمل 12 تصنيف للمنتجات المختلفة.",
+    "The Product Has Blocked": " المنتج غير فعال ",
+    "This product is in-active now": "المنتج غير فعال الآن",
+    "Title": "العنوان",
+    "title": "العنوان",
+    "Toggle navigation": "Toggle navigation",
+    "Update": "تعديل",
+    "Update Bid": "تعديل العرض",
+    "Update My Image": "تعديل الصورة الشخصية",
+    "Update Password": "تعديل كلمة المرور",
+    "Update Profile": "تعديل الملف الشخصي",
+    "update your bid!": "تعديل عرضك!",
+    "Update Your Image": "تعديل الصورة الشخصية",
+    "User Name": "اسم المستخدم",
+    "username": "اسم المستخدم",
+    "Username": "اسم المستخدم",
+    "users": "المستخدمين",
+    "Users": "المستخدمين",
+    "Verify Your Email Address": "أكد بريدك الالكتروني",
+    "View My Bids": "عرض عروضي",
+    "View My Products": "عرض منتجاتي",
+    "Welcome to Handicrafts Auction": "أهلًا بك في مزاد المشغولات اليديوية",
+    "Welcome to Handicrafts Auction as buyer": "أهلًا بك كمشتري في مزاد المشغولات اليدوية",
+    "Welcome to Handicrafts Auction as craftsman": "أهلًا بك كبائع في مزاد المشغولات اليدوية",
+    "with all related bids?": "مع جميع العروض المقدمة عليه؟",
+    "with all his bids?": "مع جميع عروضه؟",
+    "wood": "أخشاب",
+    "Wood": "أخشاب",
+    "wool": "الصوف",
+    "Wool": "الصوف",
+    "auction extended till ": "تم تمديد المزاد حتى",
+    "Yes, Delete Bid": "نعم، احذف العرض",
+    "Yes, Delete Buyer": "نعم، احذف المشتري",
+    "Yes, Delete It": "نعم، احذف",
+    "Yes, Delete Product": "نعم، احذف المنتح",
+    "Yes, I received it": "نعم، استلمت طلبي",
+    "You are logged in as admin!": "أنت مسجل دخول كمدير!",
+    "You are not allowed to bidding!": "لا يمكنك تقديم عروض! ",
+    "you bid": "قد عرضت",
+    "You bid": "قد عرضت",
+    "You Bid!": "قد عرضت!",
+    "You Have Ordered this product": "قدطلبت هذا المنتج بالفعل",
+    "You Ordered This Product": "قد طلبت هذا المنتج بالفعل",
+    "you ordered this product": "قد طلبته",
+    "you ordered it": "قد طلبته",
+    "You Ordered This Product By:": "قد طلبت هذا المنتج بسعر:",
+    "You Ordered This product By:": "قد طلبت هذا المنتج بسعر:",
+    "Your Address:": "عنوانك:",
+    "Your Mobile:": "رقم جوالك:",
+    "Your Product: OrderNowPrice": "منتجك: سعر الطلب الآن",
+    "Your profile": "ملفك الشخصي",
+    "Achieve the highest possible profit for your handicrafts through the auction": "حقق أعلى ربح من مشغولاتك اليدوية من خلال المزاد",
+    "Be Distinguished by ordering and possessing the most attractive and unique items": "تميز بطلب المنتجات الجذابة والفريدة",
+    "How To Use HandicraftsAuction": "كيف تستخدم مزاد المشغولات اليدوية",
+    "Register as Craftsman": "التسجيل كشيف ",
+    "WoodHandicrafts": "المشغولات الخشبية",
+    "By registering as a crafttsman you can add your handmade product for sale (ordered) by auction, or by a high OrderNow Price. you cant order a product with craftsman role, create buyer account to bid or order products": "من خلال التسجيل كصاحب مشغولات يدوية (بائع)، يمكنك إضافة مشغولاتك للبيع (لتُطلب) عن طريق المزاد أو عن طريق سعر الطلب الآن المرتفع. لا يمكنك طلب من حساب نوعه مشتري، وإنما يمكنك إنشاء حساب مشتري لتقديم العروض على المزادات و طلب المنتجات.",
+    "By registering as a buyer you can order-now and place bidds to order products by auction, after you success orderring aproduct you have to confirm its shipping from your orders panel you cant list your own products with buyer role, creat buyer account to list your handmades.": "من خلال التسجيل كمشتري، يمكنك طلب المنتجات في أي وقت من خلال سعر الطلب الآن أوتقديم عروض لطلب المنتجات من خلال المزادات، وبعد نجاحك في طلب منتج ما واستلامه، عليك تأكيد شحنه من لوحة الطلبات، لا يمكنك إدراج منتجاتك الخاصة وأنت مسجل كمشتري، يجب إنشاء حساب مشتري لتتمكن من إدراج أي مشغولات يدوية.",
+    "PaintingHandicrafts": "مشغولات الدهانات واللوحات الفنية",
+    "PaintingHandicrafts": "مشغولات الدهانات",
+    "PaperHandicrafts": "المشغولات الورقية",
+    "EmbroideryHandicrafts": "مشغولات التطريز",
+    "WoolHandicrafts": "المشغولات الصوفية ",
+    "WoodHandicrafts": "المشغولات الخشبية",
+    "Beadhandicraft": "مشغولات الخرز",
+    "NaturalResourcesHandicrafts": "مشغولات الموارد الطبيعية",
+    "LeatherHandicrafts": "المشغولات الجلدية",
+    "PlasticHandicrafts": "مشغولات البلاستيك",
+    "GlassHandicrafts": "المشغولات الزجاجية",
+    "ClayHandicrafts": "المشغولات الفخارية والصلصال",
+    "MetalsHandicrafts": "المشغولات المعدنية",
+    "ordered product": "منتج قيد التسليم", 
+    "Admin": "مدير",
+    "Role": "الدور",
+    "Salade": "سلطات",
+    "Soup": "شوربات",
+    "Sweets": "حلويات",
+    "Sundae": "مثلجات",
+    "Pastries": "معجنات",
+    "FastFood": "وجبات سريعة",
+    "TraditionalFood": "أكلات شعبية",
+    "This category contains products that belong to the craft of painting": "يشمل هذا التصنيف المشغولات اليديوية المعتمدة على الدهانات والرسم أو اللوحات الفنية",
+    "This category contains products that belong to craft of decorating paper": "يشمل هذا التصنيف المشغولات اليدوية المصنوعة من الورق",
+    "This category contains products that belong to the craft of embroidery": "يشمل هذا التصنيف المشغولات اليدوية المصنوعة من التطريز",
+    "This category contains products that belong to the craft of decorating wools": "يشمل هذا التصنيف المشغولات اليدوية المصنوعة من الأخشاب",
+    "This category contains products that belong to the craft of decorating woods": "يشمل هذا التصنيف المشغولات اليدوية المصنوعة من الصوف",
+    "This category contains products that belong to the craft of decorating beads": "يشمل هذا التصنيف المشعولات اليدوية المصنوعة من الحرز",
+    "This category contains products that belong to the craft of using natural resources": "يشمل هذا التصنيف لمشغولات اليدوية المصنوعة من أي موارد طبيعية كأوراق الأشجار وبذور النباتات",
+    "This category contains products that belong to the craft of decorating leather": "يشمل هذا التصنيف المشغولات اليدوية المصنوعة من الجلد",
+    "This category contains products that belong to the craft of decorating plastic": "يشمل هذا التصنيف المشغولات اليدوية المصنوعة من البلاستيك",
+    "This category contains products that belong to the craft of decorating glass": "يشمل هذا التصنيف المشغولات اليدوية المصنوعة من الزجاج",
+    "This category contains products that belong to the craft of decorating clay": "يشمل هذا التصنيف المشغولات اليدوية المصنوعة من الفخار أو الصلصال",
+    "This category contains products that belong to the craft of metals": "يشمل هذا التصنيف المشغولات اليدوية المصنوعة من المعادن",
+    "You are not allowed to perform this action with craftsman account, create buyer account to bid on auctions and order products": "لا يُمكنك تنفيذ هذا الإجراء بحساب صاحب مشغولات يدوية (بائع)، أنشئ حساب مشتري لتتمكن من المزايدة على المنتجات وطلبها.",
+    "You are not allowed as a buyer to do this action! Create craftsman account to pressent and control your handmads for sale.": "لا يمكنك تنفيذ هذا الإجراء كمشتري، أنشئ حساب صاحب مشغولات بائع لإضافة مشغولاتك اليدوية وإدارتها.",
+    "You Are not Allowed to access Admin control Panel!": "غير مسموح لك الدخول إلى لوجة تحكم المدير.",
+    "profile updated successfully": "تم تحديث الملف الشخصي بنجاح.",
+    "update profile faild": "فشل تحديث الملف الشخصي.",
+    "Current password does not correct!": "كلمة المرور الحالية غير صحيحة!",
+    "Password successfully changed!":"تم تحديث كلمة المرور بنجاح.",
+    "change password faild!": "فشل تغيير كلمة المرور.",
+    "buyer with his bids deleted successfuly": "تم حذف المشتري وعروضه بنجاح.",
+    "fail to delete buyer": "فشل حذف المشتري.",
+    "craftsman deleted successfuly": "تم حذف البائع بنجاح.",
+    "fail to delete craftsman": "فشل حذف البائع.",
+    "order deleted successfuly": "تم حذف الطلب بنجاح",
+    "fail to delete order": "فشل حذف الطلب ",
+    "product with related bids deleted successfuly": "تم حذف لمنتج والعروض المقدمة عليه بنجاح",
+    "fail to delete product": "فشل حذف المنتج",
+    "Craftsman - ProductsOwner": "صاحب المشغولات اليدوية - مالك المنتجات",
+    "Buyer ": "المشترى",
+    "When you receive the product you ordered; You must confirm that the order is received without problems from your orders page": "",
+    "I have read": "قرأت",
+    "the terms and conditions policy": "سياسة الشروط والأحكام",
+    ", I agree to it": "، وأنا موافق عليها",
+    "Terms And Conditions": "الشروط والأحكام",
+    "For More Details,": "لمزيد من التفاصيل",
+    "Read terms and conditions from here": "اقرأ سياسة الشروط والأحكام من هنا",
+    "Handicrafts Auction Terms And Conditions": "شروط وأحكام مزاد المشغولات اليدوية",
+    "You are blocked": "أنت محظور.",
+    "the user you want to reach is blocked": "المستخدم الذي تحاول الوصول إليه محظور",
+    "cant delete bid in last 10 hours of auction": "لا يمكنك حذف العرض في آخر 10 ساعات للمزاد.",
+    "cant update bid in last 10 hours of auction": "لا يمكنك تعديل العرض في آخر 10 ساعات للمزاد.",
+    "bid deleted successfuly": "تم حذف العرض بنجاح.",
+    "why not order it now!:": "لم لا تطلب المنتج الآن!:",
+    "fail to delete bid": "فشل حذف العرض.",
+    "bid updated successfully": "تم تعديل العرض بنجاح.",
+    "update bid faild": "فشل تعديل العرض",
+    "You have already bid on this product, you can update your bid": "قد قدمت عرضك بالفعل على هذا المنتج، يمكنك تغيير عرضك إن أردت.",
+    "bid added successfully": "تم إضافة العرض بنجاح.",
+    "bidding failed!": "المزايدة فشلت!",
+    "image updated successfully": "تم تعديل الصورة بنجاح.",
+    "update image failed": "فشل تعديل الصورة",
+    "Current password is not correct!": "كلمة المرور الحالية غير صحيحة.",
+    "Password successfully changed!": "تم تغيير كلمة المرور بنجاح.",
+    "change password faild!": "فشل تغيير كلمة المرور.",
+    "delivary confirmed, your completed order has been removed": "تم تأكيد استلام المنتج وإزالة الطلب من النظام.",
+    "delivary confirmed, your order has been removed": "تم تأكيد استلام المنتج وإزالة الطلب من النظام.",
+    "ordering failed!, product is locked!": "فشل الطلب، المنتج غير فعال الآن.",
+    "profile updated successfully": "تم تحديث الملف الشخصي.",
+    "update profile failed": "فشل تحديث الملف الشخصي",
+    "image updated successfully": "تم تحديث الصورة بنجاح.",
+    "update image faild": "فشل تحديث الصورة.",
+    "product created successfully": "المنتج أضيف بنجاح.",
+    "create product failed": "فشل إضافة المنتج.",
+    "product deleted successfuly": "تم حذف المنتج بنجاح.",
+    "fail to delete product": "فشل حذف المنتج.",
+    "update product faild": "فشل تحديث المنتج.",
+    "product updated successfully": "تم تحديث المنتج بنجاح.",
+    "extending auction failed!, days should be from 1 to 15": " فشل تمديد المزاد، عدد الأيام يجب أن يكون بين 1 و 15.",
+    "We have emailed your password reset link!": "لقد أرسلنا لك رابط إعادة تعيين كلمة المرور",
+    "Please wait before retrying.": "انتظر قليلًا قبل إعادة المحاولة",
+    "Congrats 🎉, Your order: << ": "تهانينا 🎉، لقد طلبت: <<",
+    " >> will deliver within 3 hours, Please confirm the receipt from Your Orders Panel immediately as you receive your product.": " >> وستستلمه خلال 3 ساعات، الرجاء تأكيد الاستلام فور وصول المنتج إليك كما طلبته. ",
+    "your product <<": "منتجك << ",
+    ">> has been deleted by Handicrafts Auction Admins": " >> حذف من قبل إدارة مزاد المشغولات اليدوية",
+    "Please confirm the receipt from Your Orders Panel immediately as you receive your product:": "الرجاء تأكيد استلامك المنتج من قائمة طلباتي فور وصوله إليه كما طلبته",
+    " >> will deliver within 3 hours,": " >> وسيتم تسليمه خلال 3 ساعات،",
+    "Congrats 🎉, Your product: << ": "تهانينا 🎉، منتجك << ",
+    "Your Order Is On Delivary...": "طلبك قيد التسليم...",
+    " >> has been ordered by ": " >> قد طلب من قبَل المشتري: ",
+    " You have 3 hours to deliver it to him,": " لديك 3 ساعات لتسلمه المنتج،",
+    "Please check Your Ordered Products Panel to get the buyer address:": "الرجاء مراجعة قائمة منتجاتك المطلوبة للوصول إلى عنوان المشتري:",
+    "When you deliver buyer the product ask him to confirm the product delivery from the website immediately as he received it.": "عندما تسلم المشترى الطلب، اطلب منه تأكيد استلامه للمنتج من خلال نافذه طلباته عبر الموقع.",
+    "You Have New Ordered Product": "تم طلب أحد منتجاتك",
+    "your product has been deleted": "تم حذف أحد منتجاتك",
+    "auction extended till ": "تم تمديد المزاد حتى ",
+    "Go Back": "عودة إلى الصفحة السابقة",
+    "min": "أقل",
+    "max": "أعلى",
+    "error email or password": "خطأ في البريد الالكتروني أو كلمة المرور",
+    "Current password is not correct!": "كلمة المرور الحالية غير صحيحة.",
+    "change password faild!, current password is inCorrect": "فشل تغيير كلمة المرور، كلمة المرور الحالية غير صحيحة",
+    "New product <<": "منتج جديد <<",
+    ">> added,": " >>  قد أضيف للتو،",
+    "please check the system products:": "الرجاء مراجعة منتجات النظام",
+    "New product added": "تم إضافة منتج جديد",
+    "We have extended the auction of Your product: << ": "قد مددنا موعد انتهاء مزاد منتجك << ",
+    " >> because it hasnt achieved any bids yet!, you can update the product description to be more attractive or you can even delete the product.": " >> لأنه لم يحصل على أي عروض بعد!، يمكنك تغيير وصف المنتج وصوره بأخرى أكثؤ جاذبية أو يمكنك حذف المنتج.",
+    "Your Product Auction Has Been Extended Automatically": "تم تمديد مزاد أحد منتجاتك تلقائيًا",
+    "The Acution on: << ": "مزاد المنتج: << ",
+    " >> has been extended automaticlly due to No Bids": " >> مدِّد تلقائيًا بسبب عدم تقدم أي عرض عليه",
+    "There was a new order <<": "يوجد طلب جديد << ",
+    ">>, ": " >>،",
+    "Please check the system orders: ": "الرجاء مراجعة طلبات النظام",
+    "There was a new order": "يوجد طلب جديد",
+    " had won the auction on: << ": " فاز بمزاد المنتج << ",
+    " >>.": " >>.",
+    "Auction has finished": "أحد المزادات انتهى",
+    "You had won new auction 🎉": "لقد فزت بمزاد جديد",
+    "Congrats 🎉, You had won new auction, its for product: << ": "تهانينا  🎉، فد فزت بمزاد جديد للمنتج: << ",
+    " >> has been ordered by the bidder auction winner:": " >> طلبه المزاود الفائز: ",
+    ", You have 3 hours to deliver it to him,": " لديك 3 ساعات لتسلمه المنتج،",
+    " Please check Your Ordered Products Panel to get the buyer address:": "الرجاء مراجعة قائمة منتجاتك المطلوبة للوصول إلى عنوان المشتري:",
+    " When you deliver buyer the product ask him to confirm the product delivery from the website immediately as he received it.": "عندما تسلم المشترى الطلب، اطلب منه تأكيد استلامه للمنتج من خلال نافذه طلباته عبر الموقع.",
+    "Congrats 🎉, You win the auction on: << ": "تهانينا 🎉، لقد فزت بمزاد المنتج: << ",
+    " >> the product will deliver within 3 hours, please check Your Orders Panel.": " >> سيتم تسليمك المنتج خلال 3 ساعات، الرجاء مراجعة صفحة طلباتك.",
+    "Congrats 🎉, ": "تهانينا 🎉، ",
+    " >>, The product will deliver within 3 hours,": "سيتم تسليم المنتج خلال 3 ساعات",
+    " wins the acution on Your product: << ": " فاز بمزاد منتجك: << ",
+    " >>, Check your Ordered Products panel, you have to deliver him the product within 3 hours": "  >> راجع صفحة منتجاتك المطلوبة، عليك تسليمه المنتج خلال 3 ساعات",
+    " wins the acution on: << ": " فاز بمزاد المنتج <<",
+    " >>.": " >> ",
+    "Product images": "صور المنتج",
+    "i will get it": "سأحصل عليه",
+    "i am ready to pay": "أنا جاهز لدفع المبلغ",
+    "this wool is usefull": "هذه الصوفيات نافعة جدًا",
+    "i updated my bid": "قد عدلت عرضي",
+    "i will get it with the updated bid 170$": "سأحصل عليه بعرضي المعدل 170$",
+    "i think it doesnt coast more than 20$": "أتوقع أنها لا تكلف أكثر من 20$",
+    "Fuyit Natural Wood Slices" : "شرائح خشف فويت الطبيعية",
+    "Natural & Original: Wood Circles are made of natural wood with barks, have a rustic beauty and are in good shape. Some wood bark may fall partially from the slices.": "طبيعي وأصلي: دوائر خشبية مصنوعة من الخشب الطبيعي مع لحاء ، ولها جمال ريفي وهي في حالة جيدة. قد يسقط بعض لحاء الخشب جزئيًا من الشرائح.", 
+    "Best Kit With No Tools Needed": "أفضل مجموعة خرز للتزيين دون الحاجة لأدوات",
+    "Whether you are a jewelry making aficionado or just wanting to start a new hobby, a jewelry making kit is a must-have. These kits come will all the supplies you need to make earrings, necklaces, bracelets, anklets, and more, while also coming in handy when fast, timely repairs are needed.Whether you are a jewelry making aficionado or just wanting to start a new hobby, a jewelry making kit is a must-have. These kits come will all the supplies you need to make earrings, necklaces, bracelets, anklets, and more, while also coming in handy when fast, timely repairs are needed.": "سواء كنت من عشاق صناعة الاكسسوارت أو ترغب فقط في بدء هواية جديدة ، فإن مجموعة صنع المجوهرات ضرورية. تأتي هذه الأطقم مع جميع المستلزمات التي تحتاجها لصنع الأقراط والقلائد والأساور والخلخال وغيرها ، بينما تكون مفيدة أيضًا عند الحاجة إلى إصلاحات سريعة وفي الوقت المناسب سواء كنت من عشاق صناعة المجوهرات أو ترغب فقط في بدء هواية جديدة ، طقم صنع المجوهرات أمر لا بد منه. تأتي هذه الأطقم مع جميع المستلزمات التي تحتاجها لصنع الأقراط والقلائد والأساور والخلخال وغيرها ، بينما تكون مفيدة أيضًا عند الحاجة إلى إصلاحات سريعة وفي الوقت المناسب.",
+    "LifeAround2Angels Bath Bombs Gift Set 12 USA made Fizzies": "مجموعة هدايا كرات الصابون من لايف حوالي 12 قطعة فيزيز أمريكية الصنع",
+    "12 uniquely handcrafted bath bombs. Functional and relaxing. Great Mothers day gifts.Truly made in California, USA freshly with premium USA natural ingredients - fizzes with colors, will not stain your tub! Therapeutic and Moisturizing bath bombs, formulated for Normal/Dry skin Developed and Created by us, a bath bomb company with passion Bath Bomb Individually Wrapped. Perfect gift ideas for party favors and wedding. This bath bomb gift sets is on many's wish list. Perfect for Fathers Day gifts, birthday gift, gifts for her, spa/bath gifts, for the special one, perfect gifts for mom, wife, girlfriend or women you love.": "12 قنبلة استحمام مصنوعة يدويًا بشكل فريد. وظيفية ومريحة. هدايا رائعة لعيد الأم صُنعت حقًا في كاليفورنيا بالولايات المتحدة الأمريكية حديثًا بمكونات طبيعية فاخرة من الولايات المتحدة الأمريكية - تتألق بالألوان ، ولن تلطخ حوض الاستحمام الخاص بك! قنابل الاستحمام العلاجية والمرطبة ، المصممة للبشرة العادية / الجافة تم تطويرها وصنعها من قبلنا ، شركة كرات الاستحمام الفوارة مع باث بومب مغلف بشكل فردي. أفكار هدية مثالية لمفضلات الحفلات والزفاف. مجموعات هدايا كرات الاستحمام هذه مدرجة في قائمة رغبات الكثيرين. مثالية لهدايا عيد الأب ، هدايا أعياد الميلاد ، هدايا لها ، هدايا السبا / الحمام ، هدايا خاصة ، هدايا مثالية للأم أو الزوجة أو الصديقات أو النساء اللواتي تحبهن.",
+    "Village Decor Terracotta Water Jug/Pitcher - 1.5 LTR": "قربة ديكور إبريق ماء تراكوتا فخار مزخرف - 1.5 لتر",
+    "MATERIAL: Earthen Clay, COLOR: Earthen Brown CAPACITY: 1.5 Ltr / 51 Oz PACKAGE CONTAINS: 1 Piece of Water Jug with Lid BENEFITS: Its porous nature keeps the water naturally cool all day without any refrigeration and ergonomically designed for everyday use. TESTED UNDER LABORATORY: 100% Natural clay, Non-toxic, Lead Free, Arsenic free, Cadmium free, Un glazed, No artificial colors are used - does not harm your health and environment in any way.": "الخامة: الطين الترابي ، اللون: بني ترابي السعة: 1.5 لتر / 51 أونصة تحتوي العبوة: قطعة واحدة من إبريق الماء مع مزايا الغطاء: طبيعته المسامية تحافظ على الماء باردًا بشكل طبيعي طوال اليوم دون أي تبريد ومصممة هندسيًا للاستخدام اليومي. تم اختباره في المختبر: طين طبيعي 100٪ ، غير سام ، خالي من الرصاص ، خالي من الزرنيخ ، خالي من الكادميوم ، غير مصقول ، لا يتم استخدام ألوان صناعية - لا يضر بصحتك وبيئتك بأي شكل من الأشكال.",
+    "Leather Bound Journal Gift Set": "مجموعة هدايا دفتر ومجلة جلدية",
+    "Essential Alchemist is an American company that provides a variety of novelty products for customers that care about quality, design, and details. Our products can be collectables or used as gifts during special occasions. It’s also good for personal use and it’s easily portable. Our latest product, the vintage leather bound journal gift set, comes in three different colors to choose from. Don’t wait, join our family now and become an essential alchemist! We also want to provide great customer service for everyone. Our customer service team is friendly and responsible, so if you have any questions, concerns or suggestions, feel free to contact us. We would love to hear your valuable feedback.": "Essential Alchemist هي شركة أمريكية تقدم مجموعة متنوعة من المنتجات الجديدة للعملاء الذين يهتمون بالجودة والتصميم والتفاصيل. يمكن أن تكون منتجاتنا من المقتنيات أو تستخدم كهدايا خلال المناسبات الخاصة. كما أنها جيدة للاستخدام الشخصي ويمكن حملها بسهولة. أحدث منتجاتنا ، مجموعة هدايا دفتر اليومية المصنوعة من الجلد الكلاسيكي ، تأتي بثلاثة ألوان مختلفة للاختيار من بينها. لا تنتظر ، انضم إلى عائلتنا الآن وكن كيميائيًا أساسيًا! نريد أيضًا تقديم خدمة عملاء رائعة للجميع. فريق خدمة العملاء لدينا ودود ومسؤول ، لذلك إذا كانت لديك أي أسئلة أو مخاوف أو اقتراحات ، فلا تتردد في الاتصال بنا. نود أن نسمع تعليقاتك القيمة.",
+    "(200Pcs)100pcs Translucent Plastic Bags/Cellophane Bags": "(200 قطعة) 100 كيس بلاستيك شفاف / أكياس السيلوفان",
+    "PACK INCLUDE: 100 Packaging Bag with 100 black stickers. does not contain any other decorative items. MATERIAL : Plastic Translucent Bags. This packaging bag is flat bags don't have self adhesive seal function. USAGE : Perfect for packaging home-made cookies, candies, pastries, doughnut and more.It also ideal for packing small gifts or accessories. Good choice for gifts. SIZE:Packaging Bag:8.7*22.8cm,Hand made stickers：10*3cm Click the Palksky link above to see all of our products": "تشمل العبوة: 100 كيس تغليف مع 100 ملصق أسود. لا يحتوي على أي عناصر زخرفية أخرى. الخامة: أكياس بلاستيكية شفافة. كيس التغليف هذا عبارة عن أكياس مسطحة لا تحتوي على وظيفة ختم ذاتية اللصق. الاستخدام: مثالي لتعبئة ملفات تعريف الارتباط محلية الصنع ، والحلويات ، والمعجنات ، والكعك المحلى وغير ذلك ، كما أنه مثالي لتعبئة الهدايا الصغيرة أو الملحقات. اختيار جيد للهدايا. الحجم: كيس التغليف: 8.7 * 22.8 سم ، ملصقات مصنوعة يدويًا ： 10 * 3 سم انقر فوق رابط Palksky أعلاه لمشاهدة جميع منتجاتنا",
+    "Wool Yarn": "لفة صوف",
+    "1. Content: 100% Extraordinarily Luxurious Merino wool 2. Specification: 127yd / 116 m ( 1.76 oz / 50 g ), Needle Size: 4-8mm, 1 ball * 50g. 3. Excellent Sourcing: Merino wool is a material derived from Merino sheep and is known for its outstanding characteristics including its excellent softness, gloss and breathability. Merino wool yarn is softer, thinner and warmer than many others.": "1. المحتوى: 100٪ صوف ميرينو فاخر للغاية 2. المواصفات: 127yd / 116 م (1.76 أونصة / 50 جم) ، مقاس الإبرة: 4-8 مم ، كرة واحدة * 50 جم. 3. مصادر ممتازة: صوف ميرينو هو مادة مشتقة من خراف ميرينو وهي معروفة بخصائصها المتميزة بما في ذلك النعومة الممتازة واللمعان والتهوية. خيوط صوف ميرينو أنعم وأرق وأكثر دفئًا من خيوط كثيرة أخرى.",
+    "Other": "أخرى",
+    "other types": "أنواع أخرى",
+    " had updated his bid on: << ": " عدل عرضه على << ",
+    "Bid has updated": "تم تعديل أحد العروض",
+    "When you receive the product you ordered; You must confirm that the order is received without problems from your orders page": "عند استلامك المنتج الذي طلبته؛ عليك التأكيد على تمام الطلب واستلامه بدون مشاكل من صفحة طلباتك",
+    "Keep in touch with the product owner to make it easier for him to deliver your product when he orderes.": "ابقى على تواصل مع صاحب المنتج لتسهل عليه عملية توصيل المنتج إليك بعد إتمام الطلب",
+    "If you didnt reseve your order within 3 hours and the seller did not improve to communicate with you about the delay, you can contact support via the attached mail in the Contact Us section.": "إذا لم يصل طلبك إليك خلال 3 ساعات ولم يحسن البائع المعني التواصل معك بشأن التأخير يمكنك التواصل مع إدارة المزاد عبر البريد المرفق في قسم تواصل معنا.",
+    "You are responsible for your bid you add to any product, at any moment you may win the auction and the product will be converted into a request for you and shipped to you immediately after the auction ends, when your bid was the highest one on that product. Here we note to dont despair if you notice the new bids are higher than your bid, who knows! those bidders may delete their bids and you get the abortianity to win the product, moreover you can compete aggressively for the product you like by adjusting your bid at a higher bid price.": "أنت مسؤل عن عرضك الذي تضيفه على أي منتج، ففي أي لحظة قد تفوز بالمزاد ويُحول المنتج إلى طلب أنت صاحبه ويُشحن اليك فور انتهاء المزاد إذا كان عرضك هو أعلى سعر مزايدة على المنتج، وهنا ننوه أن لا تيأس إذا لاحظت قدوم مزايدات أعلى من عرضك، فمن يدري، قد يحذف أصحاب تلك المزايدات عروضهم وتحظى أنت بالمنتج، كما يمكنك التنافس بقوة على المنتج الذي يعجبك من خلال تعديل عرضك بسعر مزايدة أعلى.",
+    "When you win an auction, you must pay the total price of your bid at onece directly as soon as you receive the product, otherwise you may be reported and charged in addition to being banned from the site, as well as you must pay the amount of Order Now at once directly as soon as you received your order through this feature.": "عند فوزك بالمزاد عليك دفع نفس مبلغ المزايدة الذي فزت به دفعة واحدة مباشرة فور استلامك المنتج وإلا قد يتم الإبلاغ عنك ومحاسبتك بالإضافة لحظرك من الموقع، وكذلك عليك دفع مبلغ (الطلب الآن) كاملًا ومباشرة فور استلامك المنتج الذي طلبته عبر هذه الميزة.",
+    "You can edit or delete your bids in the duration of the product auction, but you cannot do so in the last 10 hours of the auction timer.": "يمكنك تعديل أو حذف عروضك طوال فترة مزاد المنتجات، لكن لا يمكنك فعل ذلك في الـ 10 ساعات الأخيرة لمؤقت المزاد",
+    "You may find one of your offers has been removed from your bids page, at that time the product itself and all bids on it will have been deleted by the administration.": "قد تجد أحد عروضك مزال من صفحة عروضك، وقتها يكون المنتج نفسه قد تم حذفه وجميع العروض عليه من قبَل الإدارة.",
+    "When you find a product marked (in-active) that means it is in delivery and will be deleted from the system as soon as the buyer confirms its delivary.": "عندما تجد منتجًا معلمًا بنص (غير فعال) وقتها يكون في مرحلة التسليم وسيتم حذفه من الموقع عند تأكيد المشترى من استلامه لذلك المنتج بالفعل",
+    
+    "All products you add must be totaly handmade and belong to one of the website categories, if your products is found to be not handmade, or ready-made from the market, it will be deleted and this behaviour will affect the reliability of your account and we may have to block you.": "يجب أن تكون جميع المنتجات التي تضيفها مصنوعة يدوية وتابعة لأحد تصنيفات المتجر، إذا تم ضبط أحد منتجاتك أنه غير مصنوع يدويًا، أو مجلوب جاهزًا من السوق فسيتم حذفه وهذا سيؤثر على موثوقية حسابك وربما نضطر إلى حظرك.",
+    "You have to speed up the delivery of your handmads when it ordered, within a period of no more than 3 hours, so you should pay attention the website notifications about your ordered products via your email as possible to avoid the late delivary. Delivery of products will cause annoyance to buyers which may force us to block your account and products.": "عليك التسريع في تسليم مشغولاتك عند طلبها بفترة لا تزيد عن 3 ساعات، لذا عليك الانتباه لبريدك الوارد من إشعارات الموقع بشأن منتجاتك المطلوبة حتى لا تتأخر في تسليمها، كما نتوقع أن تكون مجهز دومًا وسيله توصيل سريعة ملائمة للوصول إلى مختلف مناطق القطاع، تأخرك في تسليم المنتجات ستؤدي لانزعاج المشترين ما قد يضطرنا إلى حظر حسابك ومنتجاتك.",
+    "Keep in touch with the buyer during the delivery period to reassure him, if the product is delivered to him and he does not pay for it properly; You can contact the website support.": "ابقى على تواصل مع المشترى خلال فترة التسليم لطمأنته، وإذا سلمته المنتج ولم يحسن دفع ثمنه؛ بإمكانك التواصل مع إدارة المتجرز.",
+    "Your product will remain in the website with an (inactive) sign as long as the buyer does not confirm receipt, this may indicate problems that occurred during delivery, which affects your account reliability, so you must ask the buyer to confirm receipt of your product as soon as you confirm that it was successfully shipped to him.": "منتجك سيبقى في المتجر بعلامة (غير فعال) طالما لم يؤكد المشترى استلامه، وهذا قد يوحي إلى مشاكل حصلت أثناء التسليم ما يؤثر على موثوقية حسابك، لذلك عليك أن تطلب من المشترى أن يؤكد استلامه منتجك فور التأكد من شحنه إليه بنجاح.",
+    "You can update or delete your product as long as it has not won any bids yet, put you cannot update or delete your product, so you must check your product description when adding it and quickly review it before buyers start competing for it.": "بإمكانك تعديل منتجك أو حذفه طالما لم يحظى بأي مزايدات بعد، ما عدا ذلك فإنه لا يمكنك تفعيل أو حذف منتجك، لذا عليك التدقيق في مواصفات وصور منتجك عند إضافته والاسراع في مراجعته قبل أن يبدأ المشترين التنافس عليه.",
+    "If you miss a product from your list of products, it means that it has been deleted by the admin for not meeting the conditions of the handicraft auction.":"إذا افتقدت أحد المنتجات من قائمة منتجاتك فهذا يعنى أنه محذوف من قبَل الإدارة لعدم استيفاءه شروط مزاد المشغولات اليدوية."
+
+}
