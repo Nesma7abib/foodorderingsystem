@@ -41,7 +41,7 @@
                                 <th class="text-center">{{ __('LastName') }}</th>
                                 <th class="text-center">{{ __('Username') }}</th>
                                 <th class="text-center">{{ __('Email') }}</th>
-                                <th class="text-center">{{ __('Bids') }}</th>
+                                {{-- <th class="text-center">{{ __('Bids') }}</th> --}}
                                 <th style="text-align: center" class="text-center">{{ __('Options') }}</th>
                             </tr>
                         </thead>
@@ -52,11 +52,11 @@
                                     <td class="text-center">{{ $buyer->lastName }}</td>
                                     <td class="text-center">{{ $buyer->username }} </td>
                                     <td class="text-center">{{ $buyer->email }} </td>
-                                    <td class="text-center">
+                                    {{-- <td class="text-center">
                                         <a href="{{ route('admin.buyer.bids', $buyer->id) }}" class="btn btn-primary ">
                                          {{$buyer->bids->count()}} <i class="fa fa-gavel"></i>
                                         </a>
-                                    </td>
+                                    </td> --}}
                                     <td class="text-center">
                                         <a href="{{ route('admin.buyers.show', $buyer->id) }}" class="btn btn-primary ">
                                             <i class="fa fa-eye"></i>

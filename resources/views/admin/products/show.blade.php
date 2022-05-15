@@ -111,7 +111,7 @@
                             name="orderNowPrice" value="{{ $product->orderNowPrice }}$">
                        
                     </div>
-                    @if ($product->isAuctioned())
+                    {{-- @if ($product->isAuctioned())
                         <div class="form-group">
                             <h6 for="orderNowPrice">{{ __('Max Bid') }}: {{ $product->maxBidPrice() }}$</h6>
                         </div>
@@ -120,7 +120,7 @@
                             <h5 for="orderNowPrice">{{ __('Starting Bid Price') }}: {{ $product->startingBidPrice() }}$
                             </h5>
                         </div>
-                    @endif
+                    @endif --}}
                     <div class="form-group">
                         <label for="description">{{ __('description') }} </label>
                         <textarea required type="text"
@@ -141,7 +141,7 @@
                             @endforeach
                         </select>
                     </div>
-                    <div class="form-group">
+                    {{-- <div class="form-group">
                         <h6 for="orderNowPrice">{{ __('BidIncreament') }}: {{ $product->bidIncreament() }}</h6>
                         <br>
                         {{-- </div>
@@ -152,7 +152,7 @@
                         @endIf
                         <a href="{{ route('products.index') }}" name="cancel"
                             class="btn btn-default">{{ __('cancel') }}</a>
-                    </div>
+                    </div> --}}
                     <br>
 
                 </div>

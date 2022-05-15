@@ -35,17 +35,17 @@
                         <textarea type="address" class="form-control" name="address">{{ $buyer->address }} </textarea>
                     </div>
 
-                    <div class="form-group">
+                    {{-- <div class="form-group">
                         <label for="address">
                             <a href="{{ route('admin.buyer.bids', $buyer->id) }}">{{ __('buyer bids :')}}
                                 {{ $buyer->bids->count() }}</a>
                         </label>
-                    </div>
+                    </div> --}}
 
-                    <div class="form-action text-center">
+                    {{-- <div class="form-action text-center">
                         <a href="{{ route('admin.product.bids', $product->id) }}" type="reset" name="cancel"
                             class="btn btn-default">{{ __('Cancel') }}</a>
-                    </div>
+                    </div> --}}
                 </div>
 
             </div>

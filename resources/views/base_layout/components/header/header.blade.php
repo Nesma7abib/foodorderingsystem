@@ -358,7 +358,7 @@
                 </li>
                 <!-- BEGIN QUICK SIDEBAR TOGGLER -->
                 <!-- DOC: Apply "dropdown-dark" class after below "dropdown-extended" to change the dropdown styte -->
-                <li class="dropdown dropdown-user">
+                {{-- <li class="dropdown dropdown-user">
                     <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"
                        data-close-others="true">
                         <img alt="" class="img-circle" src="../assets/layouts/layout/img/avatar3_small.jpg"/>
@@ -389,7 +389,7 @@
 
 
                     </ul>
-                </li>
+                </li> --}}
                 <li class="dropdown dropdown-quick-sidebar-toggler">
                     <a href="{{ route('admin_dashboard') }}"
                         style="margin-top:70%!important; padding:0px; padding-top:5%">

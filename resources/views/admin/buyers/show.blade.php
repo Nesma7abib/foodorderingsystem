@@ -47,10 +47,10 @@
                         </a>
                     </div>
 
-                    <div class="form-action text-left">
+                    {{-- <div class="form-action text-left">
                         <a href="{{ route('admin.buyer.bids', $buyer->id) }}" type="reset" name="bids"
                             class="btn btn-primary">{{ __('Show buyer Bids') }}</a>
-                    </div>
+                    </div> --}}
                     <div class="form-action text-center">
                         <a href="{{ route('buyers.index') }}" type="reset" name="cancel"
                             class="btn btn-default">{{ __('Cancel') }}</a>

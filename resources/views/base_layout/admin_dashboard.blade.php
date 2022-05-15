@@ -74,7 +74,7 @@
                                         <br>
                                         <div class="col-md-12">
                                             <div class="form-group">
-                                                <div class="col-xs-6 text-center">
+                                                <div class="text-center">
                                                     <a class="btn btn-default" href="{{ route('roles.index') }}">{{ __('Roles:')}}
                                                         {{ $roles }}</a>
                                                 </div>

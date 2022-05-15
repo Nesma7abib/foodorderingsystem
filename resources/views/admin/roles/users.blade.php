@@ -47,10 +47,10 @@
                                     <a href="{{ route('admin.craftsman.products', $user->id) }}" class="btn btn-primary ">
                                        {{ __('products count: ')}}{{ $user->products->count() }}
                                     </a>
-                                @elseif($user->role->name === 'Buyer')
+                                {{-- @elseif($user->role->name === 'Buyer')
                                     <a href="{{ route('admin.buyer.bids', $user->id) }}" class="btn btn-primary ">
                                         {{ __('bids count:')}} {{ $user->bids->count() }}
-                                    </a>
+                                    </a> --}}
                                 @endif
                                 {{-- @if ($user->role->name !== 'Admin')
                             <a class="btn btn-danger delete-user" data-value="{{$user->id}}">

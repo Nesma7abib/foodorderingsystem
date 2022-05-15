@@ -47,7 +47,7 @@
                                 <th class="text-center">{{ __('OrderNowPrice')}}</th>
                                 <th class="text-center">{{ __('OwnerName')}}</th>
                                 <th class="text-center">{{__('Category')}}</th>
-                                <th class="text-center">{{ __('MaxBid')}}</th>
+                                {{-- <th class="text-center">{{ __('MaxBid')}}</th> --}}
                                 <th style="text-align: center" class="text-center">{{ __('Options')}}</th>
                             </tr>
                         </thead>
@@ -69,10 +69,10 @@
                                     </td>
                                     <td class="text-center" style="vertical-align: middle">
                                         {{ __($product->category->name) }}</td>
-                                    <td class="text-center" style="vertical-align: middle">
+                                    {{-- <td class="text-center" style="vertical-align: middle">
                                         <a
                                             href="{{ route('admin.product.bids', $product->id) }}">{{ $product->isAuctioned() ? $product->maxBidPrice() . '$' : '0' }}</a>
-                                    </td>
+                                    </td> --}}
                                     <td class="text-center" style="vertical-align: middle">
                                         @if(!$product->isOrdered())
                                         <a data-toggle="modal" class="btn btn-lg" id="smallButton"

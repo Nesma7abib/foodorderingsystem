@@ -95,7 +95,7 @@
                         <h1>Product</h1>
                         <h4><b>{{ __('Title') }}:</b> {{ __($product->title) }} </h4>
                         <h4><b>{{ __('OrderNowPrice') }}:</b> {{ $product->orderNowPrice }}$ </h4>
-                        @if ($product->isAuctioned())
+                        {{-- @if ($product->isAuctioned())
                             <div class="form-group">
                                 <h4 for="orderNowPrice"><b>{{ __('Max Bid') }}:</b> {{ $product->maxBidPrice() }}$</h4>
                             </div>
@@ -104,7 +104,7 @@
                                 <h4 for="orderNowPrice"><b>{{ __('Starting Bid Price') }}:</b> {{ $product->startingBidPrice() }}$
                                 </h4>
                             </div>
-                        @endif
+                        @endif --}}
                         <h4><b>{{ __('description') }}:</b> {{ __($product->description) }} </h4>
                         <h4><b>{{ __('category') }}:</b> {{ __($product->category->name) }} </h4>
                         <hr>
@@ -132,7 +132,7 @@
                         <h4><b>{{ __('address') }}:</b> {{ $buyer->address }} </h4>
                         <hr>
 
-                        @if ($product->isAuctioned())
+                        {{-- @if ($product->isAuctioned())
                             <h1>Product Bids</h1>
                             <div class="panel-body">
                                 <table class="table table-bordered table-striped table-condensed flip-content">
@@ -157,7 +157,7 @@
                                 </table>
 
                             </div>
-                        @endif
+                        @endif --}}
                     </div>
                 </div>
             </div>

@@ -266,4 +266,8 @@
                     $('#loader').hide();
                 },
                 timeout: 8000
-      
+            })
+        });
+    </script>
+
+@endsection
