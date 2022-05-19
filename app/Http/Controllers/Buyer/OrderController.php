@@ -93,25 +93,25 @@ class OrderController extends Controller
                 $user = Auth::user();
                 $craftsman = $product->user;
 
-                Mail::raw(trans("Congrats 🎉, Your order: << ") . trans($product->title) . trans(" >> will deliver within 3 hours,"). "\n \n". trans("Please confirm the receipt from Your Orders Panel immediately as you receive your product:"). "\n".route('buyer.ordered_products'), function ($mail) use ($user) {
-                    $mail->from('laraveldemo2018@gmail.com', trans('Handicrafts Auction'));
-                    $mail->to($user->email)
-                        ->subject(trans('Your Order Is On Delivary...'));
-                });
-                Mail::raw(trans("Congrats 🎉, Your product: << ") . trans($product->title) . trans(" >> has been ordered by ") . $user->username . trans(" You have 3 hours to deliver it to him,")." \n \n". trans("Please check Your Ordered Products Panel to get the buyer address:")." \n ".route('craftsman.ordered_products'). "\n".trans("When you deliver buyer the product ask him to confirm the product delivery from the website immediately as he received it."), function ($mail) use ($craftsman) {
-                    $mail->from('laraveldemo2018@gmail.com', trans('Handicrafts Auction'));
-                    $mail->to($craftsman->email)
-                        ->subject(trans('You Have New Ordered Product'));
-                });
-                $admins = User::where('role_id', '=', 1)->get();
-                $ordersURL= route('orders.index');
-                foreach($admins as $user) {
-                    Mail::raw(trans("There was a new order <<").trans($product->title).trans(">>, ")."\n \n".trans("Please check the system orders: ")."\n".$ordersURL, function ($mail) use ($user) {
-                        $mail->from('laraveldemo2018@gmail.com', trans('Handicrafts Auction'));
-                        $mail->to($user->email)
-                            ->subject(trans('There was a new order'));
-                    });
-                }
+                // Mail::raw(trans("Congrats 🎉, Your order: << ") . trans($product->title) . trans(" >> will deliver within 3 hours,"). "\n \n". trans("Please confirm the receipt from Your Orders Panel immediately as you receive your product:"). "\n".route('buyer.ordered_products'), function ($mail) use ($user) {
+                //     $mail->from('laraveldemo2018@gmail.com', trans('Handicrafts Auction'));
+                //     $mail->to($user->email)
+                //         ->subject(trans('Your Order Is On Delivary...'));
+                // });
+                // Mail::raw(trans("Congrats 🎉, Your product: << ") . trans($product->title) . trans(" >> has been ordered by ") . $user->username . trans(" You have 3 hours to deliver it to him,")." \n \n". trans("Please check Your Ordered Products Panel to get the buyer address:")." \n ".route('craftsman.ordered_products'). "\n".trans("When you deliver buyer the product ask him to confirm the product delivery from the website immediately as he received it."), function ($mail) use ($craftsman) {
+                //     $mail->from('laraveldemo2018@gmail.com', trans('Handicrafts Auction'));
+                //     $mail->to($craftsman->email)
+                //         ->subject(trans('You Have New Ordered Product'));
+                // });
+                // $admins = User::where('role_id', '=', 1)->get();
+                // $ordersURL= route('orders.index');
+                // foreach($admins as $user) {
+                //     Mail::raw(trans("There was a new order <<").trans($product->title).trans(">>, ")."\n \n".trans("Please check the system orders: ")."\n".$ordersURL, function ($mail) use ($user) {
+                //         $mail->from('laraveldemo2018@gmail.com', trans('Handicrafts Auction'));
+                //         $mail->to($user->email)
+                //             ->subject(trans('There was a new order'));
+                //     });
+                // }
 
                 return redirect()->back()->with('success', trans('Congrats 🎉, Your order: << ') . trans($product->title) . trans(' >> will deliver within 3 hours, Please confirm the receipt from Your Orders Panel immediately as you receive your product.'));
             }

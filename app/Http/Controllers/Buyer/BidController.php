@@ -110,13 +110,13 @@ class BidController extends Controller
         $otherBidders= User::whereIn('id', $otherBidders_ids)->get();
         if($bid_updates->save() === True){
 
-            foreach($otherBidders as $otherBidder){
-                Mail::raw($otherBidder->username.trans(" had updated his bid on: << ") . trans($product->title) . trans(" >>."), function ($mail) use ($otherBidder) {
-                    $mail->from('laraveldemo2018@gmail.com', trans('Handicrafts Auction'));
-                    $mail->to($otherBidder->email)
-                        ->subject(trans('Bid has updated'));
-                });
-            }
+            // foreach($otherBidders as $otherBidder){
+            //     Mail::raw($otherBidder->username.trans(" had updated his bid on: << ") . trans($product->title) . trans(" >>."), function ($mail) use ($otherBidder) {
+            //         $mail->from('laraveldemo2018@gmail.com', trans('Handicrafts Auction'));
+            //         $mail->to($otherBidder->email)
+            //             ->subject(trans('Bid has updated'));
+            //     });
+            // }
 
             return redirect()->back()->with('success', 'bid updated successfully');
         }

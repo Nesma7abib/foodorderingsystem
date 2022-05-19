@@ -82,11 +82,11 @@ class ProductsController extends Controller
             $product->delete();
             $user = $product->user;
 
-            Mail::raw(trans("your product <<").trans($product->title).trans(">> has been deleted by Handicrafts Auction Admins"), function ($mail) use ($user) {
-                $mail->from('laraveldemo2018@gmail.com', trans('Handicrafts Auction'));
-                $mail->to($user->email)
-                    ->subject(trans('your product has been deleted'));
-            });
+            // Mail::raw(trans("your product <<").trans($product->title).trans(">> has been deleted by Handicrafts Auction Admins"), function ($mail) use ($user) {
+            //     $mail->from('laraveldemo2018@gmail.com', trans('Handicrafts Auction'));
+            //     $mail->to($user->email)
+            //         ->subject(trans('your product has been deleted'));
+            // });
 
             return redirect()->back()->with('success', 'product with related bids deleted successfuly');
         } catch (\Exception $e) {

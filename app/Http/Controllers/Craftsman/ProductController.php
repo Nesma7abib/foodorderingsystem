@@ -148,13 +148,13 @@ class ProductController extends Controller
         $admins = User::where('role_id', '=', 1)->get();
         $productsURL= route('products.index');
 
-        foreach ($admins as $user) {
-            Mail::raw(trans("New product <<").trans($product->title).trans(">> added,"). "\n \n". trans("please check the system products:")." \n".$productsURL, function ($mail) use ($user) {
-                $mail->from('laraveldemo2018@gmail.com', trans('Handicrafts Auction'));
-                $mail->to($user->email)
-                    ->subject(trans('New product added'));
-            });
-        }
+        // foreach ($admins as $user) {
+        //     Mail::raw(trans("New product <<").trans($product->title).trans(">> added,"). "\n \n". trans("please check the system products:")." \n".$productsURL, function ($mail) use ($user) {
+        //         $mail->from('laraveldemo2018@gmail.com', trans('Handicrafts Auction'));
+        //         $mail->to($user->email)
+        //             ->subject(trans('New product added'));
+        //     });
+        // }
 
         if($product->save() === True)
             return redirect()->back()->with('success', 'product created successfully');

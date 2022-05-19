@@ -30,7 +30,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="form-group text-center">
+                    {{-- <div class="form-group text-center">
                         <label for="title">{{ __('Auction Timer') }} </label>
                         @if (!$product->isExpired())
                             <div id="countdown" class="text-center"></div>
@@ -41,7 +41,7 @@
                                 $product->order_by_auction();
                             @endphp
                         @endif
-                    </div>
+                    </div> --}}
 
 
                     <div class="form-group">

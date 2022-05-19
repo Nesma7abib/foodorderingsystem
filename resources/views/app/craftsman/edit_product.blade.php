@@ -187,7 +187,7 @@
                                 </div>
                             </form>
                         </div>
-                        <div class="col-4 text-center">
+                        {{-- <div class="col-4 text-center">
                             <label for="title">{{ __('Auction Timer') }} </label>
                             @if (!$product->isExpired())
                                 <div id="countdown" class=""></div>
@@ -207,7 +207,7 @@
                                 <br>
                                 <button type="submit" class="btn btn-secondary" {{$product->isOrdered()? 'disabled':''}}>{{ __('extend auction') }}</button>
                             </form>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
